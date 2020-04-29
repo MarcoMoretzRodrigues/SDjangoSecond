@@ -1,0 +1,2 @@
+# SDjangoSecond
+Django-TOT-SecondProject
